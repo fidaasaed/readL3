@@ -8,4 +8,5 @@
 **section groupsrelated content together, andtypically each section wouldhave its own heading**
 ### The sacound iteam about process of 18
 * Process and Design 18*
-*firstiy whe should to know who the target audience is and is, why they would come to your site and eitch information they reseas
+*firstiy whe should to know who the target audience is and is, why they would come to your site and eitch information they reseas*
+You can differentiate between pieces of information 
